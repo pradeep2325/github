@@ -1,0 +1,34 @@
+package org.test007;
+
+public class Pradeep001 {
+	public static void main(String[] args) {
+		System.out.println("pradeep");
+		System.out.println("kumar");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}
